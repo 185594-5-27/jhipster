@@ -7,7 +7,7 @@ import { LoginModalService } from '../../shared';
 
 @Component({
     selector: 'jhi-register',
-    templateUrl: './register.component.html'
+    template:'<p>暂时没有开放后台注册功能!请直接与系统管理员联系!</p>'
 })
 export class RegisterComponent implements OnInit, AfterViewInit {
 
